@@ -1,0 +1,16 @@
+1. The system shall provide the user a filtered search feature for movies.
+	1.1 Filters are: genre, minimum duration (minutes), maximum duration (minutes), director, stars, rating, movie name.
+		1.1.1 User can specify all filters, some or none.
+		1.1.2 User can specify more genres, stars and directors in one search.
+
+2. The system shall provide the user a filtered search for movie theatres.
+	2.1 Filters are: movie theatre name, maximum distance (km), number of rooms, capacity for biggest room, praticability for disabled, rating.
+		2.1.1 User can specify all filters, some or none.
+		2.1.3 User cannot specify a maximum distance greater than 20 km.
+
+3. The system shall display:
+	3.1 a list of all movies matching the filters after a filtered search for movies.
+		3.1.1 When displaying a list of movies, the system shall display the movie name, genre(s), duration, director name, stars name and plot for each movie.
+	3.2 a list of all movie theatres matching the filters after a filtered search for movie theatres.
+		3.2.1 When displaying a list of movie theatres, the system shall display the movie theatre name, rating, address, number of rooms, capacity for smallest 
+		      room, capacity for biggest room, praticability for disabled.
