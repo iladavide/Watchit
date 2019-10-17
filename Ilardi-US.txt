@@ -1,0 +1,7 @@
+User stories 
+ 
+1. As a new user, I want to have instructions, so that I can learn how to use the application and the tools it offers. 
+ 
+2. As a user, I want the interface to be as simple as possible, so that I can quickly find what I need. 
+ 
+3. As a user, I want the application to warn me when I can book tickets for movies I want to see, so that I can book the ticket in time. 
