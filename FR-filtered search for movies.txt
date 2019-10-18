@@ -1,0 +1,4 @@
+1. The system shall provide the user a filtered search feature for movies.
+	1.1 Filters are: genre, minimum duration (minutes), maximum duration (minutes), director, stars, rating, movie name.
+		1.1.1 User can specify all filters, some or none.
+		1.1.2 User can specify more genres, stars and directors in one search.
